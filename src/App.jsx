@@ -6,7 +6,8 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 import Usuarios from './Usuarios.jsx'
 
-//No hace falta importar los componentes, se ha cargado desde el paquete tgz
+//No hace falta importar los componentes desde carpeta, se ha cargado desde el paquete tgz
+import { BotonCargar, useUsuarios, ListaUsuarios } from 'componentes-carga-muestra-usuarios'
 
 function App() {
   // El hook nos da la lista, si está cargando y la función de carga de usuarios
