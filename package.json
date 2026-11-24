@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "componentes-carga-muestra-usuarios": "file:src/componentes/componentes-carga-muestra-usuarios-1.0.0.tgz",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },

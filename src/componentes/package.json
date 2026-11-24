@@ -1,0 +1,13 @@
+{
+  "name": "componentes-carga-muestra-usuarios",
+  "version": "1.0.0",
+  "description": "Hook con la api, carga de usuarios y generar la lista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
