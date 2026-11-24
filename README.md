@@ -1,3 +1,30 @@
+# Máximo Yuste Palacián - Proyecto API
+
+# Prototipo en figma
+
+Enlace web: https://www.figma.com/design/OdC7vyDkax2GPaz5E40Wls/proyecto-lista-usuarios?node-id=0-1&t=8aNpSgJIfr7yKRhE-1
+
+![Prototipo en Figma](./public/prototipofigma1.png)
+
+
+# Código
+
+
+# Demostración
+
+# Cuestiones
+
+
+### .¿Qué criterio de usabilidad o accesibilidad has aplicado en tu prototipo y por qué elegiste esos controles y colores?
+### .¿Qué ocurre en tu código desde que pulsas el botón hasta que aparece la lista de usuarios?
+### .¿Qué es CORS y por qué tu API necesita configurarlo para que el cliente del puerto 5173 pueda llamarla?
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
