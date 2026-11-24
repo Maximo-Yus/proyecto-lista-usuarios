@@ -19,5 +19,18 @@
     "@vitejs/plugin-react": "^6.1.2",
     "oxlint": "^1.90.0",
     "vite": "^8.3.6"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximo-Yus/proyecto-lista-usuarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maximo-Yus/proyecto-lista-usuarios/issues"
+  },
+  "homepage": "https://github.com/Maximo-Yus/proyecto-lista-usuarios#readme"
 }
