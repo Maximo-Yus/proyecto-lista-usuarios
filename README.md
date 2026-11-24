@@ -4,26 +4,30 @@
 
 Enlace web: https://www.figma.com/design/OdC7vyDkax2GPaz5E40Wls/proyecto-lista-usuarios?node-id=0-1&t=8aNpSgJIfr7yKRhE-1
 
-![Prototipo en Figma](./public/prototipofigma1.png)
+Explicar
 
+![Prototipo en Figma](./public/prototipofigma1.png)
+![Prototipo en Figma](./public/prototipofigma2.png)
 
 # Código
 
+Explicar
 
 # Demostración
 
+Explicar
+
+![Prueba de funcionamiento](./public/demostracion1.png)
+![Prueba de funcionamiento](./public/demostracion2.png)
+
 # Cuestiones
 
-
 ### .¿Qué criterio de usabilidad o accesibilidad has aplicado en tu prototipo y por qué elegiste esos controles y colores?
+    Explicar
 ### .¿Qué ocurre en tu código desde que pulsas el botón hasta que aparece la lista de usuarios?
+    Explicar
 ### .¿Qué es CORS y por qué tu API necesita configurarlo para que el cliente del puerto 5173 pueda llamarla?
-
-
-
-
-
-
+    Explicar
 
 # React + Vite
 
